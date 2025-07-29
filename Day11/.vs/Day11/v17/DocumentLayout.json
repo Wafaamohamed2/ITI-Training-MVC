@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Day11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2286D45B-5741-4A8C-A721-F36D24C32011}|Day11\\Day11.csproj|c:\\users\\user\\source\\repos\\day11\\day11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2286D45B-5741-4A8C-A721-F36D24C32011}|Day11\\Day11.csproj|solutionrelative:day11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2286D45B-5741-4A8C-A721-F36D24C32011}|Day11\\Day11.csproj|c:\\users\\user\\source\\repos\\day11\\day11\\models\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2286D45B-5741-4A8C-A721-F36D24C32011}|Day11\\Day11.csproj|solutionrelative:day11\\models\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2286D45B-5741-4A8C-A721-F36D24C32011}|Day11\\Day11.csproj|c:\\users\\user\\source\\repos\\day11\\day11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2286D45B-5741-4A8C-A721-F36D24C32011}|Day11\\Day11.csproj|solutionrelative:day11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2286D45B-5741-4A8C-A721-F36D24C32011}|Day11\\Day11.csproj|c:\\users\\user\\source\\repos\\day11\\day11\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2286D45B-5741-4A8C-A721-F36D24C32011}|Day11\\Day11.csproj|solutionrelative:day11\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2286D45B-5741-4A8C-A721-F36D24C32011}|Day11\\Day11.csproj|c:\\users\\user\\source\\repos\\day11\\day11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2286D45B-5741-4A8C-A721-F36D24C32011}|Day11\\Day11.csproj|solutionrelative:day11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2286D45B-5741-4A8C-A721-F36D24C32011}|Day11\\Day11.csproj|c:\\users\\user\\source\\repos\\day11\\day11\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2286D45B-5741-4A8C-A721-F36D24C32011}|Day11\\Day11.csproj|solutionrelative:day11\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 12,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day11\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day11\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA/wB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:47:29.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Day11\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Day11\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T09:56:32.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day11\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Day11\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T09:50:06.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Day11\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Models\\Movie.cs",
+              "RelativeToolTip": "Day11\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:43:34.705Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Models\\IRepo.cs",
+              "RelativeDocumentMoniker": "Day11\\Models\\IRepo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Models\\IRepo.cs",
+              "RelativeToolTip": "Day11\\Models\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:39:48.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Program.cs",
+              "RelativeDocumentMoniker": "Day11\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Program.cs",
+              "RelativeToolTip": "Day11\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:41:42.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

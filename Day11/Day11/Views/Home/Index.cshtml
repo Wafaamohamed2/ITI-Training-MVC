@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Day11.Models.Movie>
+@{
+    ViewData["Title"] = "Movies List";
+}
+
+<h2>Movies List</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Director)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Year)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Genre)
+            </th>
+            <th>Detail</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                <td>@Html.DisplayFor(modelItem => item.Director)</td>
+                <td>@Html.DisplayFor(modelItem => item.Year)</td>
+                <td>@Html.DisplayFor(modelItem => item.Genre)</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Detail</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
