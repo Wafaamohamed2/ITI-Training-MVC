@@ -1,5 +1,6 @@
 ﻿namespace Day12.Models.Repsitory
 {
+    // This interface defines the contract for a generic repository pattern to manage entities of type T it is useful for CRUD operations.
     public interface IRepository<T> where T : class
 
     {

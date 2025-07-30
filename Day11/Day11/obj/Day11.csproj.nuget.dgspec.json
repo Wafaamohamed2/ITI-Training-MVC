@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Day11.csproj": {}
+    "F:\\ITI-Tranning-MVC\\Day11\\Day11\\Day11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Day11.csproj": {
+    "F:\\ITI-Tranning-MVC\\Day11\\Day11\\Day11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Day11.csproj",
+        "projectUniqueName": "F:\\ITI-Tranning-MVC\\Day11\\Day11\\Day11.csproj",
         "projectName": "Day11",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\Day11.csproj",
+        "projectPath": "F:\\ITI-Tranning-MVC\\Day11\\Day11\\Day11.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Day11\\Day11\\obj\\",
+        "outputPath": "F:\\ITI-Tranning-MVC\\Day11\\Day11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
