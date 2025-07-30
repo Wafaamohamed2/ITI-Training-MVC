@@ -5,7 +5,7 @@
 
 
 ###  Day 11:
-         - In this task we focuse on implementing the core components of the Model-View-Controller (MVC) architecture. 
+         - In this task we focused on implementing the core components of the Model-View-Controller (MVC) architecture. 
          - specifically controllers and views.. This session introduces how to handle user requests, process input, and render dynamic content to the user interface.
 
          # Topics Covered:
@@ -28,7 +28,7 @@
 
 
  ###  Day 12:
-           - In this task we focusing on models and database integration. This session covers how to define data models, 
+           - In this task we focused on models and database integration. This session covers how to define data models, 
              connect to a database, and perform CRUD (Create, Read, Update, Delete) operations within an MVC application.
 
            # Topics Covered:
@@ -51,7 +51,21 @@
                        - Example: Creating a company management system with add, view, edit, and delete features.
                       
                        
-                
+   ###  Day13:
+           - In this task, we focused on working with **Partial Views**, **Models**, and rendering structured data dynamically using MVC architecture.
              
+           # Topics Covered:
+                 - ** Partial Views and Layouts **:
+                        - Implemented reusable UI components using **partial views**.
+                        - Created `MovieCardPartial.cshtml` to render each movie's details (title, poster, year, etc.).
+                        - Integrated Bootstrap for a clean and responsive card layout.
 
+                - ** Model Binding and ViewModel **:
+                        -  Defined a `Movie` model class representing movie data.
+                        - Used a strongly typed View to pass the movie list to the view.
+                        - Handled binding data from controller to view.
 
+                - ** JSON Output Button **:
+                        - Added a **button** that, when clicked, shows the movie list data in **JSON format**.
+                        - Demonstrated how to switch between HTML and JSON representations within the app.
+ 
