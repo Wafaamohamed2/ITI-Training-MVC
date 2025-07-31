@@ -68,4 +68,20 @@
                 - ** JSON Output Button **:
                         - Added a **button** that, when clicked, shows the movie list data in **JSON format**.
                         - Demonstrated how to switch between HTML and JSON representations within the app.
+
+
+   ###  Day 14 - MVC with Web API:
+             - This task focuses on building a Movie Management Application using ASP.NET Core MVC and a separate Web API. 
+             - The project includes a frontend MVC application (`WebApp`) to display and manage movies, and a backend Web API (`Day14__WebAPI`)
+               to provide data operations such as retrieving, adding, editing, and deleting movies.
+             - The application uses a partial view (`_MovieCardPartial.cshtml`) to render movie cards dynamically.
+
+             # Objectives:
+                 - Implement an MVC application to display a list of movies.
+                 - Connect the MVC app to a Web API for data retrieval.
+                 - Use partial views and controllers to manage the UI and logic.
+                 - Handle CRUD operations via the Web API.
+
+                 
  
+ك
