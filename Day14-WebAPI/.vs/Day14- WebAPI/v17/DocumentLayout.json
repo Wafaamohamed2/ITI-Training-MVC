@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\webapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\webapp\\service\\movieapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|solutionrelative:webapp\\service\\movieapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCC5584-50E1-4DCA-B2E4-6E6C2B70D209}|Day14- WebAPI\\Day14- WebAPI.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\day14- webapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCC5584-50E1-4DCA-B2E4-6E6C2B70D209}|Day14- WebAPI\\Day14- WebAPI.csproj|solutionrelative:day14- webapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCC5584-50E1-4DCA-B2E4-6E6C2B70D209}|Day14- WebAPI\\Day14- WebAPI.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\day14- webapi\\models\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCC5584-50E1-4DCA-B2E4-6E6C2B70D209}|Day14- WebAPI\\Day14- WebAPI.csproj|solutionrelative:day14- webapi\\models\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCC5584-50E1-4DCA-B2E4-6E6C2B70D209}|Day14- WebAPI\\Day14- WebAPI.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\day14- webapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCC5584-50E1-4DCA-B2E4-6E6C2B70D209}|Day14- WebAPI\\Day14- WebAPI.csproj|solutionrelative:day14- webapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCC5584-50E1-4DCA-B2E4-6E6C2B70D209}|Day14- WebAPI\\Day14- WebAPI.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\day14- webapi\\day14- webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFCC5584-50E1-4DCA-B2E4-6E6C2B70D209}|Day14- WebAPI\\Day14- WebAPI.csproj|solutionrelative:day14- webapi\\day14- webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\webapp\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\webapp\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\webapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCC5584-50E1-4DCA-B2E4-6E6C2B70D209}|Day14- WebAPI\\Day14- WebAPI.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\day14- webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCC5584-50E1-4DCA-B2E4-6E6C2B70D209}|Day14- WebAPI\\Day14- WebAPI.csproj|solutionrelative:day14- webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCC5584-50E1-4DCA-B2E4-6E6C2B70D209}|Day14- WebAPI\\Day14- WebAPI.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\day14- webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFCC5584-50E1-4DCA-B2E4-6E6C2B70D209}|Day14- WebAPI\\Day14- WebAPI.csproj|solutionrelative:day14- webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|solutionrelative:webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\webapp\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\webapp\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\webapp\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\webapp\\views\\movie\\_moviecardpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\movie\\_moviecardpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|c:\\users\\user\\source\\repos\\day14- webapi\\webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9902BFE3-AA33-4688-8908-D53E1A1D3E03}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\Day14- WebAPI\\Models\\IRepo.cs",
+              "RelativeDocumentMoniker": "Day14- WebAPI\\Models\\IRepo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\Day14- WebAPI\\Models\\IRepo.cs",
+              "RelativeToolTip": "Day14- WebAPI\\Models\\IRepo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:21:07.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\Day14- WebAPI\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Day14- WebAPI\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\Day14- WebAPI\\Models\\Movie.cs",
+              "RelativeToolTip": "Day14- WebAPI\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:21:05.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T12:07:41.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:54:01.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Models\\Movie.cs",
+              "RelativeToolTip": "WebApp\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T12:19:29.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Views\\Movie\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Movie\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Views\\Movie\\Create.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Movie\\Create.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T12:09:21.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieApi.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Service\\MovieApi.cs",
+              "RelativeDocumentMoniker": "WebApp\\Service\\MovieApi.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Service\\MovieApi.cs",
+              "RelativeToolTip": "WebApp\\Service\\MovieApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:57:45.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:52:34.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\Day14- WebAPI\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Day14- WebAPI\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\Day14- WebAPI\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Day14- WebAPI\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T12:35:34.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\Day14- WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Day14- WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\Day14- WebAPI\\Program.cs",
+              "RelativeToolTip": "Day14- WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T13:39:06.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\Day14- WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Day14- WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\Day14- WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Day14- WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T11:56:45.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Day14- WebAPI",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\Day14- WebAPI\\Day14- WebAPI.csproj",
+              "RelativeDocumentMoniker": "Day14- WebAPI\\Day14- WebAPI.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\Day14- WebAPI\\Day14- WebAPI.csproj",
+              "RelativeToolTip": "Day14- WebAPI\\Day14- WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T12:35:29.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T12:45:18.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Movie\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Movie\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T12:26:37.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Views\\Movie\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Movie\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Views\\Movie\\Delete.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Movie\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T12:27:21.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Views\\Movie\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Movie\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Views\\Movie\\Details.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Movie\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T12:07:39.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_MovieCardPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Views\\Movie\\_MovieCardPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Movie\\_MovieCardPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Views\\Movie\\_MovieCardPartial.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Movie\\_MovieCardPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T12:07:37.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T12:23:48.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T12:48:12.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day14- WebAPI\\WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T12:38:23.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

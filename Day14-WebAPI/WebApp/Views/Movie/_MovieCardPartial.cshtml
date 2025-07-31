@@ -1,0 +1,16 @@
+﻿@model WebApp.Models.Movie
+
+@{
+    ViewData["Title"] = "MovieCardPartial";
+}
+
+<div class="card m-2 p-2 border border-primary" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+        <h6 class="card-subtitle mb-2 text-muted">@Model.Genre</h6>
+        <p class="card-text">Released in @Model.Year</p>
+        <a asp-action="Details" asp-route-id="@Model.Id" class="card-link">Details</a>
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="card-link">Edit</a> |
+        <a asp-action="Delete" asp-route-id="@Model.Id" class="card-link">Delete</a>
+    </div>
+</div>

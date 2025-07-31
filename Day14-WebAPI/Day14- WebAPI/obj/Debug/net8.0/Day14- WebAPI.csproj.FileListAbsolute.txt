@@ -1,0 +1,32 @@
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\bin\Debug\net8.0\Day14- WebAPI.exe
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\bin\Debug\net8.0\Day14- WebAPI.deps.json
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\bin\Debug\net8.0\Day14- WebAPI.runtimeconfig.json
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\bin\Debug\net8.0\Day14- WebAPI.dll
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\bin\Debug\net8.0\Day14- WebAPI.pdb
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\Day14- WebAPI.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\Day14- WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\Day14- WebAPI.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\Day14- WebAPI.AssemblyInfo.cs
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\Day14- WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\Day14- WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\Day14- WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Day14- WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.Day14- WebAPI.props
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Day14- WebAPI.props
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Day14- WebAPI.props
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\scopedcss\bundle\Day14- WebAPI.styles.css
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\Day14- W.1375AC5E.Up2Date
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\Day14- WebAPI.dll
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\refint\Day14- WebAPI.dll
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\Day14- WebAPI.pdb
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\Day14- WebAPI.genruntimeconfig.cache
+C:\Users\user\source\repos\Day14- WebAPI\Day14- WebAPI\obj\Debug\net8.0\ref\Day14- WebAPI.dll

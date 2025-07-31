@@ -1,0 +1,6 @@
+@Day14__WebAPI_HostAddress = http://localhost:5044
+
+GET {{Day14__WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
