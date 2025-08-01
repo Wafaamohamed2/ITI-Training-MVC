@@ -83,5 +83,28 @@
                  - Handle CRUD operations via the Web API.
 
                  
- 
 ك
+   ###  Day 15 - Identity and CRUD Operations:
+             - This task focuses on building an ASP.NET Core application with user authentication using ASP.NET Core Identity and CRUD (Create, Read, Update, Delete) operations for managing `Department`                  and `Employee` entities. 
+             - The project includes:
+                          - A Web API-like structure with controllers for `Department` and `Employee` management.
+                          - User authentication and authorization using Identity, including login, two-factor authentication , and recovery code login.
+
+             # Objectives:
+                  - Implement CRUD operations for `Department` and `Employee` entities.
+                  - Secure the application with ASP.NET Core Identity.
+                  - Support login, and recovery code authentication.
+                  - Use Entity Framework Core for database migrations and data persistence.
+
+
+
+
+
+
+
+
+
+
+
+
+
