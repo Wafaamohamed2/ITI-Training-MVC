@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Day15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\migrations\\20250731121040_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\migrations\\20250731121040_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\models\\repsitory\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\models\\repsitory\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\models\\repsitory\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\models\\repsitory\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\models\\repsitory\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\models\\repsitory\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|c:\\users\\user\\source\\repos\\day15\\day15\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41475803-4B26-4B04-82CA-F63D8E92E2B8}|Day15\\Day15.csproj|solutionrelative:day15\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Day15\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Day15\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:05:26.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "Day15\\Views\\Department\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "Day15\\Views\\Department\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:04:06.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Program.cs",
+              "RelativeDocumentMoniker": "Day15\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Program.cs",
+              "RelativeToolTip": "Day15\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:01:11.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Day15\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Day15\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAADwv2oAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:05:08.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250731121040_AddIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Migrations\\20250731121040_AddIdentity.cs",
+              "RelativeDocumentMoniker": "Day15\\Migrations\\20250731121040_AddIdentity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Migrations\\20250731121040_AddIdentity.cs",
+              "RelativeToolTip": "Day15\\Migrations\\20250731121040_AddIdentity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T12:11:31.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day15\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day15\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:56:13.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Models\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "Day15\\Models\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Models\\CompanyContext.cs",
+              "RelativeToolTip": "Day15\\Models\\CompanyContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:03:22.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Day15\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Models\\Employee.cs",
+              "RelativeToolTip": "Day15\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:03:37.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\appsettings.json",
+              "RelativeDocumentMoniker": "Day15\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\appsettings.json",
+              "RelativeToolTip": "Day15\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T11:30:54.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day15\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day15\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:16:50.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day15\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Day15\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:16:36.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day15\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "Day15\\Views\\Department\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:03:53.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Day15\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Models\\Department.cs",
+              "RelativeToolTip": "Day15\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:03:32.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Models\\Repsitory\\IRepository.cs",
+              "RelativeDocumentMoniker": "Day15\\Models\\Repsitory\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Models\\Repsitory\\IRepository.cs",
+              "RelativeToolTip": "Day15\\Models\\Repsitory\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:03:16.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Models\\Repsitory\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Day15\\Models\\Repsitory\\EmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Models\\Repsitory\\EmployeeRepo.cs",
+              "RelativeToolTip": "Day15\\Models\\Repsitory\\EmployeeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:03:09.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Models\\Repsitory\\DepartmentRepo.cs",
+              "RelativeDocumentMoniker": "Day15\\Models\\Repsitory\\DepartmentRepo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Models\\Repsitory\\DepartmentRepo.cs",
+              "RelativeToolTip": "Day15\\Models\\Repsitory\\DepartmentRepo.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwCoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:02:54.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day15\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Day15\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:04:55.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Day15\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Day15\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:04:50.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Day15\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Day15\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:04:30.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Day15\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "Day15\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:04:25.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day15\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Day15\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:04:20.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day15\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Day15\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:04:14.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Day15\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "Day15\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:04:10.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Department\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Day15\\Views\\Department\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Day15\\Day15\\Views\\Department\\Delete.cshtml",
+              "RelativeToolTip": "Day15\\Views\\Department\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:04:00.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 12,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
